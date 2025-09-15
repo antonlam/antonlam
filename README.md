@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Lam Sun Yui!
+## You may call me Anton
 
-<!--
-**antonlam/antonlam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub main page!
 
-Here are some ideas to get you started:
+## About Me
+- 🌱 I’m currently learning: Android Studio
+- 💼 My background: The Chinese University of Hong Kong Electronic Engineering Student
+- 🛠️ Skills: Python, HTML, CSS, C, Arduino, Fusion 360, Soldwork, etc...
+- 🌍 Location: Hong Kong
+- 🎯 Goals: Complete a Master's Degree
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [cs2-market-python
+](https://github.com/antonlam/cs2-market-python) — Alternative of yfinance
+- [Download-Ticker-Data-without-yfinance](https://github.com/antonlam/Download-Ticker-Data-without-yfinance) — These project is used to find the item that you are looking for on steam market or bitskin
+
+## Connect with Me
+- GitHub: https://github.com/antonlam
+- LinkedIn: https://www.linkedin.com/in/sun-yui-lam-b06a43346/
+- Email: antonlam1228@gmail.com
+
+---
+Feel free to check out my repositories and connect with me!
