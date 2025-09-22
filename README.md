@@ -22,89 +22,110 @@
     <a href= "mailto:antonlam1228@gmail.com"><img src="https://bucket-image.inkmaginecms.com/version/hd/cabinet/files/consoles/1/teams/1/2022/10/27vRUSykQnhapOEzcMu3zFFEe8GKDwc3uuhhDqW5.png" alt="Email" style="width:50px;height:50px;border-radius:10px"></a>
 </p>
 
-<table>
+Feel free to check out my repositories and connect with me!
+
+# The Jungle Game
+<style>
+    .jungleBoard {
+        margin: 0 auto;
+        border-collapse: collapse;
+        text-align: center;
+    }
+    .jungleBoard td {
+        border: 1px solid #000000;
+        padding-top:1rem;
+        padding-bottom:1rem;
+        font-family: "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", "Source Han Sans TC", "Heiti TC", sans-serif;
+    }
+    .jungleBoard td.river {
+        background: #87CEFA;
+    }
+</style>
+
+<table class="jungleBoard">
     <tr>
-        <td>🦁</td>
-        <td>⬜</td>
-        <td>⚠️</td>
-        <td>🏠</td>
-        <td>⚠️</td>
-        <td>⬜</td>
-        <td>🐯</td>
+        <td>🦁<br>獅</td>
+        <td> </td>
+        <td> 🪤 <br>陷阱</td>
+        <td> 🪤 <br>獸穴</td>
+        <td> 🪤 <br>陷阱</td>
+        <td> </td>
+        <td>🐯<br>虎</td>
     </tr>
     <tr>
-        <td>⬜</td>
-        <td>🐶</td>
-        <td>⬜</td>
-        <td>⚠️</td>
-        <td>⬜</td>
-        <td>🐱</td>
-        <td>⬜</td>
+        <td> </td>
+        <td>🐶<br>狗</td>
+        <td> </td>
+        <td> 🪤 <br>陷阱</td>
+        <td> </td>
+        <td>🐱<br>貓</td>
+        <td> </td>
     </tr>
     <tr>
-        <td>🐭</td>
-        <td>⬜</td>
-        <td>🐆</td>
-        <td>⬜</td>
-        <td>🐺</td>
-        <td>⬜</td>
-        <td>🐘</td>
+        <td>🐭<br>鼠</td>
+        <td> </td>
+        <td>🐆<br>豹</td>
+        <td> </td>
+        <td>🐺<br>狼</td>
+        <td> </td>
+        <td>🐘<br>象</td>
     </tr>
     <tr>
-        <td>⬜</td>
-        <td>💧</td>
-        <td>💧</td>
-        <td>⬜</td>
-        <td>💧</td>
-        <td>💧</td>
-        <td>⬜</td>
+        <td> </td>
+        <td class="river"> </td>
+        <td class="river"> </td>
+        <td> </td>
+        <td class="river"> </td>
+        <td class="river"> </td>
+        <td> </td>
     </tr>
     <tr>
-        <td>⬜</td>
-        <td>💧</td>
-        <td>💧</td>
-        <td>⬜</td>
-        <td>💧</td>
-        <td>💧</td>
-        <td>⬜</td>
+        <td> </td>
+        <td class="river"> </td>
+        <td class="river"> </td>
+        <td> </td>
+        <td class="river"> </td>
+        <td class="river"> </td>
+        <td> </td>
     </tr>
     <tr>
-        <td>⬜</td>
-        <td>💧</td>
-        <td>💧</td>
-        <td>⬜</td>
-        <td>💧</td>
-        <td>💧</td>
-        <td>⬜</td>
+        <td> </td>
+        <td class="river"> </td>
+        <td class="river"> </td>
+        <td> </td>
+        <td class="river"> </td>
+        <td class="river"> </td>
+        <td> </td>
     </tr>
     <tr>
-        <td>🐘</td>
-        <td>⬜</td>
-        <td>🐺</td>
-        <td>⬜</td>
-        <td>🐆</td>
-        <td>⬜</td>
-        <td>🐭</td>
+        <td>🐘<br>象</td>
+        <td> </td>
+        <td>🐺<br>狼</td>
+        <td> </td>
+        <td>🐆<br>豹</td>
+        <td> </td>
+        <td>🐭<br>鼠</td>
     </tr>
     <tr>
-        <td>⬜</td>
-        <td>🐱</td>
-        <td>⬜</td>
-        <td>⚠️</td>
-        <td>⬜</td>
-        <td>🐶</td>
-        <td>⬜</td>
+        <td> </td>
+        <td>🐱<br>貓</td>
+        <td> </td>
+        <td> 🪤 <br>陷阱</td>
+        <td> </td>
+        <td>🐶<br>狗</td>
+        <td> </td>
     </tr>
     <tr>
-        <td>🐯</td>
-        <td>⬜</td>
-        <td>⚠️</td>
-        <td>🏠</td>
-        <td>⚠️</td>
-        <td>⬜</td>
-        <td>🦁</td>
+        <td>🐯<br>虎</td>
+        <td> </td>
+        <td> 🪤 <br>陷阱</td>
+        <td> 🪤 <br>獸穴</td>
+        <td> 🪤 <br>陷阱</td>
+        <td> </td>
+        <td>🦁<br>獅</td>
     </tr>
 </table>
 
-Feel free to check out my repositories and connect with me!
+
+
 ![](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
