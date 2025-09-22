@@ -36,6 +36,9 @@ Feel free to check out my repositories and connect with me!
         padding-top:1rem;
         padding-bottom:1rem;
         font-family: "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", "Source Han Sans TC", "Heiti TC", sans-serif;
+        text-align:center;
+        width:"3%";
+        height:"5%";
     }
     .jungleBoard td.river {
         background: #87CEFA;
@@ -44,40 +47,31 @@ Feel free to check out my repositories and connect with me!
 
 <table class="jungleBoard">
     <tr>
-        <td>🦁<br>獅</td>
+        <td>🦁<br>獅子</td>
         <td> </td>
         <td> 🪤 <br>陷阱</td>
         <td> 🪤 <br>獸穴</td>
         <td> 🪤 <br>陷阱</td>
         <td> </td>
-        <td>🐯<br>虎</td>
+        <td>🐯<br>老虎</td>
     </tr>
     <tr>
         <td> </td>
-        <td>🐶<br>狗</td>
+        <td>🐶<br>小狗</td>
         <td> </td>
         <td> 🪤 <br>陷阱</td>
         <td> </td>
-        <td>🐱<br>貓</td>
+        <td>🐱<br>小貓</td>
         <td> </td>
     </tr>
     <tr>
-        <td>🐭<br>鼠</td>
+        <td>🐭<br>老鼠</td>
         <td> </td>
-        <td>🐆<br>豹</td>
+        <td>🐆<br>獵豹</td>
         <td> </td>
-        <td>🐺<br>狼</td>
+        <td>🐺<br>野狼</td>
         <td> </td>
-        <td>🐘<br>象</td>
-    </tr>
-    <tr>
-        <td> </td>
-        <td class="river"><br></td>
-        <td class="river"><br></td>
-        <td> </td>
-        <td class="river"><br></td>
-        <td class="river"><br></td>
-        <td> </td>
+        <td>🐘<br>大象</td>
     </tr>
     <tr>
         <td> </td>
@@ -98,31 +92,40 @@ Feel free to check out my repositories and connect with me!
         <td> </td>
     </tr>
     <tr>
-        <td>🐘<br>象</td>
         <td> </td>
-        <td>🐺<br>狼</td>
+        <td class="river"><br></td>
+        <td class="river"><br></td>
         <td> </td>
-        <td>🐆<br>豹</td>
+        <td class="river"><br></td>
+        <td class="river"><br></td>
         <td> </td>
-        <td>🐭<br>鼠</td>
+    </tr>
+    <tr>
+        <td>🐘<br>大象</td>
+        <td> </td>
+        <td>🐺<br>野狼</td>
+        <td> </td>
+        <td>🐆<br>獵豹</td>
+        <td> </td>
+        <td>🐭<br>老鼠</td>
     </tr>
     <tr>
         <td> </td>
-        <td>🐱<br>貓</td>
+        <td>🐱<br>小貓</td>
         <td> </td>
         <td> 🪤 <br>陷阱</td>
         <td> </td>
-        <td>🐶<br>狗</td>
+        <td>🐶<br>小狗</td>
         <td> </td>
     </tr>
     <tr>
-        <td>🐯<br>虎</td>
+        <td>🐯<br>老虎</td>
         <td> </td>
         <td> 🪤 <br>陷阱</td>
         <td> 🪤 <br>獸穴</td>
         <td> 🪤 <br>陷阱</td>
         <td> </td>
-        <td>🦁<br>獅</td>
+        <td>🦁<br>獅子</td>
     </tr>
 </table>
 
