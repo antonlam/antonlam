@@ -72,29 +72,29 @@ Feel free to check out my repositories and connect with me!
     </tr>
     <tr>
         <td> </td>
-        <td class="river"> </td>
-        <td class="river"> </td>
+        <td class="river"><br></td>
+        <td class="river"><br></td>
         <td> </td>
-        <td class="river"> </td>
-        <td class="river"> </td>
-        <td> </td>
-    </tr>
-    <tr>
-        <td> </td>
-        <td class="river"> </td>
-        <td class="river"> </td>
-        <td> </td>
-        <td class="river"> </td>
-        <td class="river"> </td>
+        <td class="river"><br></td>
+        <td class="river"><br></td>
         <td> </td>
     </tr>
     <tr>
         <td> </td>
-        <td class="river"> </td>
-        <td class="river"> </td>
+        <td class="river"><br></td>
+        <td class="river"><br></td>
         <td> </td>
-        <td class="river"> </td>
-        <td class="river"> </td>
+        <td class="river"><br></td>
+        <td class="river"><br></td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td class="river"><br></td>
+        <td class="river"><br></td>
+        <td> </td>
+        <td class="river"><br></td>
+        <td class="river"><br></td>
         <td> </td>
     </tr>
     <tr>
