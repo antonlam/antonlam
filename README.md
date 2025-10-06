@@ -6,7 +6,7 @@
 
 ## 👨🏻‍💻 About Me
 - 🌱 I’m currently learning everything that I am interested!
-- 💼 My background: <a href="https://www.ee.cuhk.edu.hk/en-gb/">The Chinese University of Hong Kong Electronic Engineering</a> Student
+- 💼 My background: <a href="https://www.ee.cuhk.edu.hk/en-gb/">The Chinese University of Hong Kong Electronic Engineering</a> Undergraduate student.
 - 🛠️ Skills: Python, HTML, CSS, C, Arduino, Fusion 360, Soldwork, etc...
 - 🌍 Location: Hong Kong
 - 🎯 Goals: Complete a Master's Degree
@@ -23,4 +23,5 @@
 </p>
 
 Feel free to check out my repositories and connect with me!
+
 ![](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
