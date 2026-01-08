@@ -2,8 +2,6 @@
 
 # Welcome to my GitHub main page!
 
-![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonlam&theme=radical)
-
 ## 👨🏻‍💻 About Me
 - 🌱 I’m currently learning everything that I am interested!
 - 💼 My background: <a href="https://www.ee.cuhk.edu.hk/en-gb/">The Chinese University of Hong Kong Electronic Engineering</a> Undergraduate student.
@@ -23,5 +21,23 @@
 </p>
 
 Feel free to check out my repositories and connect with me!
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hong Kong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.1694, 22.3193]
+      }
+    }
+  ]
+}
+
 
 ![](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
