@@ -28,12 +28,18 @@ Feel free to check out my repositories and connect with me!
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "name": "Hong Kong"
-      },
+      "properties": { "name": "Hong Kong" },
       "geometry": {
         "type": "Point",
         "coordinates": [114.1694, 22.3193]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Tokyo, Japan" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.6917, 35.6895]
       }
     }
   ]
